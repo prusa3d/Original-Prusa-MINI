@@ -3,7 +3,7 @@
 
 The Original Prusa MINI is a 3D printer project maintained by PRUSA RESEARCH. Originates in the RepRap project.
 
-This repository contains STEP and 3MF/STL files of the printed and mechanical parts.
+This repository contains STEP and STL files of the printed and mechanical parts.
 
 
 **Links**
