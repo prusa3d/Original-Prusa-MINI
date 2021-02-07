@@ -14,7 +14,7 @@ This repository contains resources and documentation for printed and mechanical 
 
  * Buddy-board : https://github.com/prusa3d/Buddy-board-MINI-PCB
  * Heatbed : https://github.com/prusa3d/Heatbed-Mini-PCB
- * IR senzor : https://github.com/prusa3d/MKxS-IR-sensor
+ * IR sensor : https://github.com/prusa3d/MKxS-IR-sensor
 
 
 
